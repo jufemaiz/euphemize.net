@@ -1,0 +1,86 @@
+---
+title: links
+date: '2006-08-28 17:35:32'
+tags: []
+---
+
+I'm on the web. A fair bit. I'm also around this big old intarweb a fair bit and tend to lose 'stuff'. So here's my main 'bits' on the web.
+<h3><a href="http://flickr.com/photos/jufemaiz/"><span style="color: #0063dc">Flick</span><span style="color: #ff0084">r</span></a></h3>
+<a href="http://flickr.com/people/jufemaiz/" title="Joel (aka 'ju:femaiz) @ flickr.com"><img src="http://flagrantdisregard.com/flickr/profilewidget/recent/333333/ffffff/57005739@N00.jpg" title="joel (aka 'ju:femaiz) @ flickr" alt="joel (aka 'ju:femaiz) @ flickr.com" /></a>
+
+<a href="http://flickr.com"><span style="color: #0063dc">Flick</span><span style="color: #ff0084">r</span></a> is an absolute masterpiece on the web. While I spent a good amount of time attempting to make a <a href="http://gallery.euphemize.net" title="gallery @ euphemize.net">gallery</a> that suited my needs as a photographer I watched <a href="http://flickr.com"><span style="color: #0063dc">Flick</span><span style="color: #ff0084">r</span></a> grow for a fair few months before deciding I wanted in. What prompted my decision was its ease of integration with PC or Mac through various tools (<a href="http://flickr.com/tools/">uploadr from flickr</a>, or <a href="http://connectedflow.com/flickrexport/">flickr exportr</a> which now needs to be purchased for an outrageous sum for what you get) and the management of photos once online. It beat my zip system by a long way. This became especially useful once I finally made the decision to upgrade my film <acronym title="Single Lense Reflex">SLR</acronym> (an EOS30) to the digital version (EOS 20D).
+<h3><a href="http://claimid.com/jufemaiz/"><span style="color: #999999">Claim</span><span style="color: #99ff33">ID</span></a></h3>
+<a href="http://claimid.com/jufemaiz/" title="Joel (aka jufemaiz) @ claimid.com" style="margin: 5px 0px 10px 10px; float: right; display: block; width: 145px; height: 41px"><img src="http://claimid.com/images/logotype_small.gif" title="joel (aka jufemaiz) @ claimid.com" alt="joel (aka jufemaiz) @ claimid.com" /></a>
+
+<a href="http://claimid.com/"><span style="color: #999999">Claim</span><span style="color: #99ff33">ID</span></a> is a great little service that you use to group all the sites you have into one central location. Makes it easy to remember anything you've been involved in - and give others links to your other interests. Private notes and private links also allowed.
+<h3><a href="http://del.icio.us/jufemaiz/" title="joel @ del.icio.us">del.icio.us</a></h3>
+<a href="http://del.icio.us/jufemaiz" title="joel @ del.icio.us" style="margin: 5px 10px 10px 0px; float: left; display: block; width: 42px; height: 42px"><img src="http://del.icio.us/static/img/delicious.42px.gif" alt="joel @ del.icio.us" title="joel @ del.icio.us" /></a>
+
+<a href="http://del.icio.us">del.icio.us</a> is another start up that has been brought into the fold of Yahoo! The tool enables you to maintain your bookmarks online, rather than at home, so that you can access them from anywhere. Tagging was part of this application from the start - the very definition of web two-point-oh. Well worth a look, particularly with easy integration with most browsers to varying degrees.
+<h3><a href="http://myspace.com/jufemaiz" title="joel @ myspace">MySpace</a></h3>
+<a href="http://myspace.com/jufemaiz" title="joel @ myspace" style="margin: 5px 0px 10px 10px; float: right; display: block; width: 205px; height: 43px"><img src="http://x.myspace.com/images/LogoDotcom.gif" title="joel @ myspace" alt="joel @ myspace" /></a>
+<blockquote>MySpace is a social networking website offering an interactive, user-submitted network of friends, personal profiles, blogs, groups, photos, music, and videos.</blockquote>
+Really, MySpace is a badly programmed service that pulls in second rate blog, photo storage, "add me as a friend" network and a few other features in a site that allows for heinous designs. Facebook is definitely a better option, but under utilised due to it's more strict policies.
+<h3><a href="http://www.facebook.com/p/Joel_Courtney/218300388" title="joel @ facebook">Facebook</a></h3>
+<a href="http://www.facebook.com/p/Joel_Courtney/218300388" title="joel @ facebook" style="margin: 5px 10px 10px 0px; float: left; display: block; width: 536px; height: 84px"><img src="http://badge.facebook.com/badge/218300388.21.71790460.png" title="joel @ facebook" alt="joel @ facebook" /></a>
+
+Facebook was originally a <acronym title="United States of America">USA</acronym> only site that broadened to being global that was brought about in competition with MySpace but targetted specifically at students - both university and high school. It is far more strict than MySpace, and not nearly as widespread despite opening up to employees of selected companies using their corporate email address.
+<h3><a href="http://www.last.fm/user/jufemaiz/">LastFM</a></h3>
+<a href="http://www.last.fm/user/jufemaiz/" title="joel @ last.fm" style="margin: 5px 0px 10px 10px; float: right; display: block; width: 165px; height: 95px"><img src="http://static.last.fm/depth/header/logo.gif" title="joel @ last.fm" alt="joel @ last.fm" /></a>
+
+LastFM tracks your playlists as you play music on iTunes, Winamp (going back ages there), Windows Media Player and more.
+
+<a href="http://www.last.fm/user/jufemaiz/?chartstyle=basicrt10"><img src="http://imagegen.last.fm/basicrt10/recenttracks/jufemaiz.gif" border="0" /></a>
+<h3><a href="http://www.linkedin.com/in/joelcourtney">LinkedIN</a></h3>
+<a href="http://www.linkedin.com/in/joelcourtney" title="joel @ LinkedIN" style="margin: 5px 10px 10px 0px; float: left; display: block; width: 160px; height: 33px"><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" title="joel @ LinkedIN" alt="joel @ LinkedIN" /></a>
+
+LinkedIN is a professional network designed to let you know whom is friends with whom for when it comes to that next big break you make.
+<h3><a href="http://twitter.com/jufemaiz">Twitter</a></h3>
+<a href="http://twitter.com/jufemaiz" title="joel @ Twitter" style="margin: 5px 10px 10px 0px; float: right; display: block; width: 210px; height: 49px"><img src="http://twitter.com/images/twitter.png?1169405501" title="joel @ Twitter" alt="joel @ Twitter" /></a>
+
+Twitter is a random site allowing you to update via the web or your phone what you're up to.
+<h3><a href="http://jufemaiz.vox.com">VOX</a></h3>
+<a href="http://jufemaiz.vox.com" title="joel @ VOX" style="margin: 5px 10px 10px 0px; float: left; display: block; width: 104px; height: 43px"><img src="http://aka-static.vox.com/.shared:v21.4:vox:en_us/images/control-strip/logo.gif" title="joel @ VOX" alt="joel @ VOX" /></a>
+
+Vox comes from the ladies and gentlemen of <a href="http://www.sixapart.com/">Six Apart</a> - the people who brought one of the first blogging engines to the web in <a href="http://www.sixapart.com/movabletype/">MovableType</a> for those with hosts and the forerunner of MySpace, <a href="http://www.sixapart.com/livejournal/">LiveJournal</a>, for those without.
+<h3><a href="http://virb.com/jufemaiz">virb</a></h3>
+<a href="http://virb.com/jufemaiz" title="joel @ virb" style="margin: 5px 10px 10px 0px; float: right; display: block; width: 66px; height: 46px"><img src="http://virb.com/_graphics/_banner/virb.png" title="joel @ virb" alt="joel @ virb" /></a>
+
+Virb is set to take on MySpace, with a far cleaner interface and better backend coding, if they can move people away from MySpace. Watch out for muso's and bands to be the major incentive. Perhaps this will get News Corp pushing for an overhaul of the archaic MySpace backend which resembles nothing more than a collection of dodgy hacks.
+<h3 style="clear: both">Todo:</h3>
+<ul>
+	<li><a href="http://www.inthemix.com.au/profile/jufemaiz">InTheMix</a></li>
+	<li><a href="http://www.fasterlouder.com.au/people/jufemaiz">FasterLouder</a></li>
+	<li><a href="http://jufemaiz.jaiku.com/">Jaiku</a></li>
+	<li><a href="http://upcoming.yahoo.com/user/52284/">upcoming.org</a></li>
+	<li><a href="http://digg.com/users/jufemaiz">DIGG</a></li>
+	<li><a href="http://www.viddler.com/explore/jufemaiz/">viddler</a></li>
+	<li><a href="http://www.revish.com/people/jufemaiz/">Revish</a></li>
+	<li><a href="http://www.youtube.com/jufemaiz">YouTube</a></li>
+	<li><a href="http://trustedplaces.com/user/jufemaiz/">Trusted Places</a></li>
+	<li><a href="http://www.designrelated.com/profile/jufemaiz">Design Related</a></li>
+	<li><a href="http://friends.imagini.net/vdna.php?uid=526032-4bd1&amp;srv=iwebhd3">Imagini</a></li>
+	<li><a href="http://jufemaiz.carbonmade.com/">CarbonMade</a></li>
+	<li><a href="http://jufemaiz.spaces.live.com/">MSN Live Spaces</a></li>
+	<li><a href="http://people.icq.com/people/full_details_show.php?uin=24827289">ICQ</a></li>
+	<li><a href="http://au.profiles.yahoo.com/jufemaiz">Yahoo!</a></li>
+	<li><a href="http://www.aimpages.com/jufemaiz/profile.html">AIM</a></li>
+	<li><a href="http://s5.photobucket.com/albums/y153/jufemaiz/">Photobucket</a></li>
+	<li><a href="http://jufemaiz.stumbleupon.com/">StumbleUpon</a></li>
+	<li><a href="http://technorati.com/people/technorati/jufemaiz">Technorati</a></li>
+	<li><a href="http://jufemaiz.deviantart.com/">deviantART</a></li>
+	<li><a href="http://jufemaiz.synapselife.com/">SynapseLife</a></li>
+	<li><a href="http://www.chow.com/profile/47096">CHOW</a></li>
+	<li><a href="http://corkd.com/people/joel">Cork'd</a></li>
+	<li><a href="http://www.geni.com/profile/index/570461">Geni</a></li>
+	<li><a href="http://jufemaiz.blogspot.com/">Blogger</a></li>
+	<li><a href="http://beta.plazes.com/user/jufemaiz/">Plazes</a></li>
+	<li><a href="http://jufemaiz.livejournal.com/">LiveJournal</a></li>
+	<li><a href="http://jufemaiz.highrisehq.com">HighRiseHQ</a></li>
+	<li><a href="http://designrelated.com/jufemaiz">design:related</a></li>
+	<li><a href="http://www.istalkr.com/users/jufemaiz">iStalkr</a></li>
+	<li><a href="http://www.43things.com/person/jufemaiz">43Things</a></li>
+	<li><a href="http://www.dellideastorm.com/people/jufemaiz">Dell IdeaStorm</a></li>
+	<li><a href="http://myskitch.com/jufemaiz/">my Skitch</a></li>
+</ul>
+Just a couple :)

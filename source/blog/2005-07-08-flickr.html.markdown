@@ -1,0 +1,15 @@
+---
+title: flickr
+date: '2005-07-08 14:26:15'
+tags:
+- apple
+- design
+- flickr
+- gallery2
+- iphoto
+- osx
+---
+
+Well, it had to happen... I've opened <a href="http://www.flickr.com/photos/jufemaiz/">my account at flickr</a>. The main reason is that iPhoto has a plugin that allows me to directly upload to the flickr album. Now, if they could make a flickr type of system to install on any server, that worked with the plugin, it'd be a killer little app. Apparently<a href="http://gallery.menalto.com/">Gallery2</a> can do it, so I'll have to look into it because I might be finally scrapping my own little gallery system I made last year as a procrastination tool...
+
+Anyhow, only two 'test' shots are up atm...

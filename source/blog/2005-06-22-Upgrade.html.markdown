@@ -1,0 +1,24 @@
+---
+title: Upgrade....
+date: '2005-06-22 13:26:33'
+tags:
+- general
+- photography
+- roadtrips
+- textpattern
+- uni
+- wordpress
+- work
+---
+
+Well, in my attempts to not <a href="http://euphemize.net/archives/20050621/two-down-two-to-go/">study for my exams</a> I have updated the <a href="http://wordpress.org">wordpress distribution</a> I'm running on this site. Whilst I think it works ok, it's not the greatest thing I've played with, and am still a big fan of <a href="http://textpattern.com">textpattern</a> which will be the engine behind this site in a bit...
+
+One of the biggest problems for wordpress (imho) is the lack of full image support... Get that right, and they'll provide some more competition for <a href="http://textpattern.com">textpattern</a>
+
+Forgot to add:
+<ul>
+	<li><a href="http://euphemize.net/photography/">Photography Section</a></li>
+	<li><a href="http://euphemize.net/roadtrips/">Roadtrips</a></li>
+	<li><a href="http://euphemize.net/uni/">University</a></li>
+	<li><a href="http://euphemize.net/work/">Work</a></li>
+</ul>

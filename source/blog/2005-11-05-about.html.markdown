@@ -1,0 +1,31 @@
+---
+title: about
+date: '2005-11-05 23:55:01'
+tags: []
+---
+
+<p align="center"><a href="http://www.flickr.com/photos/jufemaiz/564907923/"><img class="notsowide" src="http://farm2.static.flickr.com/1105/564907923_3b115e37d1_m.jpg" width="160" height="240" alt="Me Today: 26" /></a><a href="http://www.flickr.com/photos/jufemaiz/404517745/"><img class="notsowide" src="http://farm1.static.flickr.com/145/404517745_f7b015d655_m.jpg" width="160" height="240" alt="Looking for Line @ National Art School Library - 22nd February, 2007" /></a><a href="http://www.flickr.com/photos/jufemaiz/326545647/"><img class="notsowide" src="http://farm1.static.flickr.com/134/326545647_55d5245790_m.jpg" width="172" height="240" alt="Me" /></a></p>
+<p align="center"><small><a href="http://flickr.com/photos/jufemaiz">photographer</a> | <a href="http://energy.com.au">engineer</a> | <a href="http://brewr.org">developer</a></small></p>
+
+<h3>Joel is</h3>
+<ul>
+	<li>An Engineer</li>
+	<li>A Photographer</li>
+	<li>A Web Developer</li>
+	<li>A Progressive</li>
+	<li>A Technologist</li>
+	<li>An Activist</li>
+	<li>A Subversive</li>
+	<li>A Thinker</li>
+	<li>A Changer</li>
+	<li>A Mate</li>
+	<li>A Friend</li>
+	<li>A Challenger</li>
+	<li>An Oldest Child</li>
+</ul>
+<h3>Joel is <em><strong>not</strong></em></h3>
+<ul>
+	<li>A Rapist (<a href="http://www.crimelibrary.com/serial_killers/predators/joel_courtney/7.html">crimelibrary.com/serial_killers/predators/joel_courtney/7.html</a>)</li>
+	<li>A Murderer (<a href="http://www.crimelibrary.com/serial_killers/predators/joel_courtney/7.html">see above</a>)</li>
+	<li>An Actor (<a href="http://www.imdb.com/name/nm1525807/">imdb.com/name/nm1525807/</a>)</li>
+</ul>

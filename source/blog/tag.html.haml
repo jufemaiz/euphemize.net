@@ -1,0 +1,51 @@
+---
+pageable: true
+blog: blog
+per_page: 12
+---
+- @title = "Blog: #{tagname}"
+/ Page Header
+/ Set your background image for this header on the line below.
+%header.intro-header{style: "background-image: url('/assets/images/backgrounds/oslo-opera-house-1.jpg')"}
+  .container
+    .row
+      .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+        .site-heading
+          %h1 'ju:femaiz
+          %hr.small/
+          %span.subheading Articles tagged '#{tagname}'
+
+/ Main Content
+.container
+  .row
+    .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+      - page_articles.each do |article|
+        .post-preview
+          = link_to article.url do
+            %h2.post-title= article.title
+            - if article.data.article_subtitle?
+              %h3.post-subtitle.subheading= article.data.article_subtitle
+          %p.post-meta
+            Posted by
+            %a.author{href: "/"}
+              - if article.data.author?
+                = article.data.author
+              - else
+                Joel
+            on
+            %time= link_to article.date.strftime('%B %e, %Y')
+        %hr/
+
+      / Pager
+      - if paginate
+        %ul.pager
+          - if prev_page
+            %li.prev
+              = link_to '← Newer Posts', prev_page
+          - if next_page
+            %li.next
+              = link_to 'Older Posts →', next_page
+        - if num_pages > 1
+          %p.text-center="Page #{page_number} of #{num_pages}"
+
+%hr/

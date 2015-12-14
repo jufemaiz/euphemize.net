@@ -1,0 +1,14 @@
+---
+title: 'RL: Tron...'
+date: '2005-07-12 16:29:55'
+tags:
+- geek
+- geek-games
+- general
+- real-life
+- tron
+---
+
+In an upgrade to the awesome <a href="http://www.pacmanhattan.com/">pacmanhattan</a> a friend has stumped across a version of the game based on the Disney sci-fi movie of the early 1980's <a href="http://www.imdb.com/title/tt0084827/">TRON</a>.
+
+<a href="http://mnt.is-a-geek.org/tron/">Real Life TRON</a> is based on bikes rather than the motorbikes of the movie, and utilises GPS+Laptops along with a wireless setup to give the riders continuous updates on each others locations... Looks like a good bit of geeky fun! (Now if only they could get that software running on a pda type devie it'd be sweet!)

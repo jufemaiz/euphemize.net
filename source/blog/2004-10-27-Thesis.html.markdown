@@ -1,0 +1,79 @@
+---
+title: Thesis
+date: '2004-10-27 22:47:47'
+tags:
+- general
+---
+
+I thought I would treat you all to a little bit of my thesis, so here goes:
+
+<h3>Section 2 : Background Information</h3>
+
+<h4>2.1 Location</h4>
+
+The Western Saharan refugees have occupied a region of land close to Tindouf (Figure 2.1) provided to them by the Algerian Government since 1976. This region lies within the infamous Sahara Desert, and is considered to be an arid climate.
+
+<em>Figure 2.1: Map of Algeria, Tindouf in red dashed box</em>
+
+Tindouf lies at a latitude of 27Â°30â€™N, and a longitude of 8Â°2.4â€™W with an elevation of 442m. The region must deal with summer temperatures peaking into the 50Â°C region, and overnight lows of below freezing. The regional rainfall is only around 3mm per annum. Further details on the climatic conditions are provided in the meteorology section.
+
+<h4>2.2 Social History</h4>
+
+For an engineering project to be successful, it is necessary to understand the history, culture and social structures of those who will be most affected by the project. This section seeks to give a short introduction to the people who now reside in the western corner of Algeria, in the blistering heat of the Saharan Desert, as refugees from their homeland of the Western Sahara.
+
+<h5>2.2.1 Origins</h5>
+
+The indigenous people of the Western Sahara, known as the Saharawi, have been a fiercely independent group of African-Arabs. They are descendants of the Almoravids, a proselytising Islamic movement of the 11th century, and tribal groups from Yemen, who crossed the Sahara from the east in the 14th century . Over the next three centuries, these groups blended into a distinct collection of tribes known as the Ahl Essahel.
+
+The regions low rainfall pushed them into a nomadic existence. They lived by growing crops and grazing animals where possible. Whilst their laws were based on customs and the holy book of Islam, the Koran, like many of the region, they differed significantly as they plied a well-worn route dictated by the seasons, wells and waterholes.
+
+Unlike most monarchical African societies, an Assembly of Forty governed the tribal society of the Saharawiâ€™s, each member representing one of the Sarahawi tribes. These tribes were divided again into smaller sub-tribes. The autonomy of these groups led a colonial historian from Spain to comment that they lived in â€œcomplete anarchyâ€ .
+
+<h5>2.2.2 Spanish Rule</h5>
+
+Whilst the Spanish influence over what is now referred to as Western Sahara began in the late 18th century, the relationship was one limited to questions regarding fishermen in the Canary Islands. The Canary Archipelago was the motivating factor for the Spanish influence in the desolate strip of land in the north west of Africa. In 1884, Spain ensured its domination of the region would continue by declaring a protectorate zone stretching from Cape Boujdour in the north to Cape Blanc in the south. Whilst this was ratified at the Berlin Conference  the Saharawi people fiercely opposed the Spanish forces. It would take until 1936, with some pressure from the French, for full colonial rule to be imposed, with portions of the population abandoning their traditional nomadic lifestyle.
+
+By 1965 the notion of European colonialism in Africa was beginning to become outdated, and the UN had called upon Spain, then under General Franco, to organize a referendum that would allow the Saharawiâ€™s self determination. This was in line with most of the African nations emerging from colonial rule. Eight years on Spain finally organised a census of the Saharawiâ€™s, emerging with a figure of 73,497 living in the Western Sahara. In 1975 however, General Franco signed over sovereignty of Western Sahara to Morocco [two-thirds] and Mauritania [one-third] as he lay on his deathbed. In 1976, the Popular Front for the Liberation of Saguia el Hamra and Rio de Oro, known as the POLISARIO, declared the independence of the Saharawi Arab Democratic Republic, despite their land being under the rule of Morocco and Mauritania.
+
+<h5>2.2.3 War and Refuge</h5>
+
+With their territory under the control of neighbouring nations many of the Saharawiâ€™s fled to the desert, setting up their own temporary refugee camps. After coming under bombardment from Moroccan Air Force and Artillery units, those who had fled fled further to the Western Algerian border town and military outpost of Tindouf where the Polisario were granted control over a portion of Algerian territory by the Algerian government. Meanwhile, the Polisario also continued a guerrilla campaign against both Mauritania and Morocco. During this period, the Polisario also worked hard setting up the refugee camps that are seen today.
+
+<em>Figure 2.2: MINURSO Map of Western Sahara</em>
+
+In 1978 Mauritania suffered a military coup, a result of the economic havoc wreaked by the Polisario attacks. One year later, the new Mauritania Government signed a peace agreement with the Polisario, abandoning its claim of the southern parts of Western Sahara. Despite this diplomatic solution, Morocco moved forces in to replace the departing Mauritanian ones, declaring it a new province of Morocco.
+
+Suffering from defeats at the hands of the experienced Polisario guerrilla forces, the Moroccans built a large berm the length of Western Sahara to deny access for military raids. Completed in the late 1980â€™s, it stretched from the border of Western Sahara and Morocco all the way to the sea in the south, containing approximately two-thirds of the land and the majority of Western Saharan resources within its walls. In front of the berm, mines were laid and this region had become similar to the WWI â€œno manâ€™s landâ€, costing almost $US2million a day to maintain .
+
+<h5>2.2.4 Hope and the Future</h5>
+
+Whilst the Moroccan Army had built the wall and their military superiority was growing, they were losing rapidly on the diplomatic front. The Organization of African Unity accepted the Saharawi Arab Democratic Republic into its fold in 1985, and by 1986 over sixty-seven mainly African nations had recognized the independence of Western Sahara. This was in line with an International Court of Justice ruling which found that there were no historic ties between the Western Sahara and Morocco.
+
+By 1990 international diplomatic pressure led to a peace plan through the United Nations. Under the plan, there was to be a ceasefire, repatriation of refugees and the newly created UN Mission for the Referendum in Western Sahara (MINURSO) would identify legitimate voters and act as a governor-in-trust of the territory. Identification of voters would be through the use of the 1974 census carried out by the Spanish.
+
+The ceasefire came into effect in 1991, but problems have plagued the referendum from the start. Morocco presented MINURSO with a list of over 120,000 people they claimed were legitimate Saharawiâ€™s who were living in Morocco. In December, the UN Special Representative for the Western Sahara resigned in protest at the Moroccanâ€™s tactics and their appeasement by then UN Secretary-General Perez de Cuellar. His successor Boutros Boutros-Ghali also tended to side with the Moroccans in the dispute.
+
+In 1997, when the ceasefire looked like it was in danger of being terminated, a new UN Secretary-General, Kofi Annan, breathed life into the almost dead peace process. Appointing the former US Secretary of State James Baker as his Special Representative, and a new round of talks led in turn to a new agreement. It was hoped that this would allow the referendum to take place as quickly as possible. This was 1997, and little progress has been made since the early 1997 as the world has conveniently forgotten a small group of Africans, awaiting their right of self-determination, in the desert of Western Algeria.
+
+<h5>2.2.5 Social Welfare</h5>
+
+Since fleeing their homeland in 1975, the Western Saharan refugees have made much of their new desert home. Whilst war waged on with most of the men at the front, the home front was commanded by the women who brought about a complete change in the traditional views of health and education.
+
+<h6>2.2.5.1 Education</h6>
+
+When the Western Saharans fled their homeland they were amongst the least educated group of Africans. Over the past thirty years, their literacy levels have improved with an added emphasis on education within the refugee camps. Literacy levels currently sit at between 90-95%  with the proportion of people in higher education bordering that of the Western world. The large participation in higher education is as much a reflection of the refugees themselves as it is of fellow nations who have sponsored students â€“ most notably Algeria and Cuba.
+
+<h6>2.2.5.2 Health</h6>
+
+In contrast with many other refugee populations, the general health of those in the Western Saharan refugee camps is high, although they still suffer from the deficiencies caused by poor sanitation and nutrition. With their reliance on food aid, and with few crops able to be grown, the diet of the Western Saharan refugee is based on food able to be stored long-term. With little fresh fruit, vegetables and meat, and supplied food meeting less than 80% of daily energy requirements, the refugeeâ€™s main enemy is malnutrition. The importance placed on health, despite such limitations, is visible in the infant mortality rate. At approximately 6%, rather than reflecting traditional views of refugee camps, it is much closer to the surrounding countries of Algeria and Morocco.
+
+<h5>2.2.6 The Current Situation</h5>
+
+Since embarking on my thesis, there have been two significant developments effecting the Western Sahara. The first was the shock resignation of Kofi Annanâ€™s Personal Envoy, James Baker, in June. The second was the statement of support from South African President, Thabo Mbeki.
+
+On June 11th, Kofi Annanâ€™s Personal Envoy for the Western Sahara resigned amid Moroccan statements that they were not accepting of any political solutions that would lose them sovereignty over the Western Sahara. Appointed in March of 1997, Baker had been attempting to broker a solution to the territoryâ€™s status. In 1993, Baker had proposed an alternative peace plan, whereby there would be a transition period of joint responsibility for the territory leading up to a referendum on the future of the territory. This option had been backed by the UN Security Council. April 2004 saw Morocco submit its final response, stating that whilst it wished to achieve a political solution, â€œan autonomy-based political solution can only be final.â€
+
+Early September saw South African President Thabo Mbeki come out with clear support for the Western Saharan refugees. This was reinforced in early October at a meeting with his Algerian counterpart where both leaders emerged reconfirming support for the referendum and the Saharawi Arab Democratic Republic (SADR). While the Organization of African Unity and the African Union had long supported the POLISARIO cause, recognising the independence of the SADR, this was the first time that a major African nation had come out with explicit support for the referendum to occur as soon as possible. This turning point was followed statements from the UN Secretary General Kofi Annan and the resignation of James Baker.
+
+The UN once again extended MINURSOâ€™s jurisdiction for another six months, yet without significant pressure from the worldâ€™s developed countries, these refugees may be in the harsh Saharan Desert for many years to come.
+

@@ -1,0 +1,24 @@
+= wrap_layout :layout do
+
+  / Page Header
+  / Set your background image for this header on the line below.
+  %header.intro-header{style: "background-image: url('#{current_article.data.title_image? ? current_article.data.title_image : '/assets/images/backgrounds/oslo-opera-house-1.jpg'}')"}
+    .container
+      .row
+        .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+          .post-heading
+            %h1= current_article.title
+            - if current_article.data.article_subtitle?
+              %h2.subheading= current_article.data.article_subtitle
+            %span.meta
+              Posted by
+              %a.author{href: "#"}= current_article.data.author
+              on
+              %time= link_to current_article.date.strftime('%B %e, %Y')
+  / Post Content
+  %article
+    .container
+      .row
+        .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+          = yield
+  %hr/

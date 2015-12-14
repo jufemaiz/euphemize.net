@@ -1,0 +1,19 @@
+---
+title: Why IYHY?
+date: '2005-07-06 23:06:33'
+tags:
+- benjamin-adam
+- iyhy
+- nokia-6230
+- technology
+- wap
+---
+
+I'm addicted to using my phone for internet access. Sad but true it is. Only problems are:
+<ul>
+	<li>The number of sites that support it are small (due mainly to inept developers); and</li>
+	<li>The rendering of xhtml on the nokia 6230 isn't the greatest...</li>
+</ul>
+Enter <a href="http://www.benjaminadam.com/archives/2005/07/05/make-the-web-mobile-with-iyhy ">Benjamin Adam</a> and his new site <a href="http://www.iyhy.com">IYHY</a>. Simply enter the address you want into the input and hit 'go'. Simply eh. Give it a go.
+
+Sidenote: BBC do a wonderful wap news service and is where most of my time is spent. Other than that it's accessing emails from uni...

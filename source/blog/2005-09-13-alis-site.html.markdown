@@ -1,0 +1,16 @@
+---
+title: ali's site
+date: '2005-09-13 22:13:14'
+tags:
+- ali-parsyer
+- photography
+- rock-climbing
+- university
+- unsw
+- unswoc
+---
+
+Mate from climbing with <a href="http://unswoc.org">UNSWOC</a> has set himself a site up, so I though I'd give him a little (if anyone's reading) publicity:
+<ul>
+	<li><a href="http://parsyar.com/">Ali Parsyar</a></li>
+</ul>

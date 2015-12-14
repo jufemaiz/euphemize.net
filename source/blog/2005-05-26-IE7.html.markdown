@@ -1,0 +1,25 @@
+---
+title: IE7
+date: '2005-05-26 23:06:08'
+tags:
+- firefox
+- general
+- ie7
+- internet-explorer
+- microsoft
+- mozilla
+---
+
+Having become a convert to the mozilla group of browsers many years ago, I am watching with interest the proposed changes to IE in the yet to be released IE7 (through their <a href="http://blogs.msdn.com/ie/">blog</a>.)
+
+What is interesting to note that it is really only since the widespread uptake of blogging that the downsides of IE have come to the floor. We now see the team intent on preventing the wildfire that is <a href="http://www.mozilla.org/firefox">firefox</a>. I'm all for this, since competition between (what has become) the two browser options can only be a good thing.
+
+One of the things I like most about what's being said from the team is PNG Alpha <a href="http://blogs.msdn.com/ie/archive/2005/04/26/412263.aspx">Transparency support</a>.
+
+On another issue however, I find this part hilarious. Browsers send headers to the servers from which they are obtaining data, and some of the information gives the browser type. This is what IE7 beta will be sending:
+
+<code>IE7 running on Longhorn will send the following User-Agent header: Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)</code>
+
+That's right - they'll be saying that they are their competition - mozilla...
+
+Anyhow, I wait and watch. I don't think I'll be turned until IE is similar to firefox - <strong>completely</strong> separated from the operating system, and it's CSS rendering is up to scratch. Even then, the support from the firefox crew is too large for me to easily give away.

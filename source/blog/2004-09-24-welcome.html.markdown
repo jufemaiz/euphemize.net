@@ -1,0 +1,12 @@
+---
+title: welcome...
+date: '2004-09-24 16:49:50'
+tags:
+- general
+---
+
+Thought I'd get this up and running, so here I am...
+
+It's the end of the first half of semester, and my thesis is progressing quite well. For those that don't know I'm doing two system designs for <acronym title="Remote Area Power Supply">RAPS</acronym> systems - one for a hospital and one for a women's school for a refugee camp located in the western corner of Algeria. So that's what I'll be spending the majority of my break - finalising the design.
+
+On the note of the break, my mates band <a href="http://thelyricalmadmen.com">the lyrical madmen</a> are heading up the north coast of NSW to a place called Sawtell to play at some surf comp up there - so I'm tagging along as usual for the ride.  Should be good fun and I'll get the camera out for a play...

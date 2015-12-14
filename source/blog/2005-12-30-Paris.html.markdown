@@ -1,0 +1,18 @@
+---
+title: Paris
+date: '2005-12-30 18:59:15'
+tags:
+- europe
+- france
+- holiday
+- paris
+- photography
+- roadtrip
+---
+
+<a href="http://flickr.com/photos/jufemaiz/tags/paris/"><img alt="Paris, France" title="Paris, France" src="http://static.flickr.com/9/86416787_0da2f2dfa5.jpg" /></a>
+The French keyboards are an interesting thing to play with. Especially  the lack of decimal points...
+
+goto run...
+
+<a href="http://flickr.com/photos/jufemaiz/tags/paris/">flickr photos in Paris</a>

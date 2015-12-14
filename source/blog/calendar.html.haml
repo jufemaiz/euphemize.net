@@ -1,0 +1,61 @@
+---
+pageable: true
+blog: blog
+---
+- case page_type
+- when 'day'
+  - @date = Date.new(year, month, day).strftime('%e %B, %Y')
+- when 'month'
+  - @date = Date.new(year, month, 1).strftime('%B, %Y')
+- when 'year'
+  - @date = year
+- @title = "Blog: #{@date}"
+.container.container-fluid
+  .row.row-fluid
+    .col-md-12.center-title
+      %h1 COzero Blog
+      %hr
+      %h4= "Archive for #{@date}"
+
+  %section.blog
+    .container.container-fluid
+      - page_articles.each do |article|
+        .row.row-fluid.latest-blog
+          - if article.data.title_image?
+            %figure
+              = image_tag blog_image_path(article.data.title_image), class: "img-responsive", alt: article.data.title
+          - if article.data.src_image?
+            %figure
+              = image_tag (article.data.src_image), class: "img-responsive", alt: article.data.title
+          .col-lg-2.visible-lg
+            %aside
+              %ul.author-date
+                %li
+                  %address{class: "author"}= article.data.author
+                %li{:style => "font-size:.9em;"}
+                  Posted on
+                  %time= article.date.strftime('%b %e')
+              %ul.tags
+                - article.tags.sort.each do |tag|
+                  %li= link_to tag, tag_path( tag )
+
+          .col-lg-10.col-md-12
+            %article
+              %h3= article.title
+            - if article.data.summary?
+              %p.short-description= article.data.summary
+              = link_to 'Continue reading', article.url
+            - else article.summary
+              %p.short-description= article.summary
+              = link_to 'Continue reading', article.url
+
+          - if paginate
+            - if next_page
+              %p= link_to 'Next page', next_page
+
+          / Pagination
+          - if paginate && num_pages > 1
+            %p
+              Page #{page_number} of #{num_pages}
+            - if prev_page
+              %p= link_to 'Previous page', prev_page
