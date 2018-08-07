@@ -1,5 +1,5 @@
 # Ruby Version
-ruby '2.2.3'
+ruby '2.5.1'
 
 # Rubygems Source
 source 'https://rubygems.org' do     # Regular gems
